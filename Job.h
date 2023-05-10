@@ -5,7 +5,7 @@ class Job
 {
 
 private:
-	static int numberOfJobs;
+	//static int numberOfJobs;
 	int id;
 	std::string name;
 	bool prior;
@@ -15,6 +15,5 @@ public:
 	Job();
 	Job(int i, std::string n);
 	std::string viewJobInformations();
-	
+	//static int getNumberOfJobs();
 };
-

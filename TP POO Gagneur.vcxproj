@@ -24,6 +24,7 @@
     <ProjectGuid>{dbf0efae-e1cb-474c-8aae-47176301e5c2}</ProjectGuid>
     <RootNamespace>TPPOOGagneur</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>TP POO ESN</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
